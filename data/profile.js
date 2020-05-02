@@ -8,7 +8,7 @@
                  "email": "harshitbajpai85@gmail.com",
                 "phone": "+919696831239",
                 "address": "562, T.R Muniswamappa Building,1st Main 5th cross ,BENGALURU ,KARNATAKA-560066",
-                "portfolio": "https://github.com/harshit85"
+                "portfolio": "https://harshit85.github.io/harshResume/index.html"
             }
         },
         "links": [
