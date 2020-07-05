@@ -81,7 +81,7 @@
         "projects": [{
                     "title": "Microid",
             "duration": "February, 2020 currently",
-                    "link": "https://play.google.com/store/apps/details?id=com.mantis.blackoasis",
+                    "link": "https://play.google.com/store/apps/details?id=com.mantis.gosuperbus&hl=en_IN",
                     "desc": "Creating multiple android apps with single code base by changing product flavour"
                 }
                 ,{
