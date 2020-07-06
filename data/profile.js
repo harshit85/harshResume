@@ -3,7 +3,7 @@
         "name": "Harshit Bajpai",
         "sub_title": "B. Tech undergraduate (Computer Science and Engineering)",
         "about": {
-            "intro": "Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with a solution for every problem.I am always eager to learn from anyone and everyone. I am a strong team player who is able to quickly learn and apply new technologies with 1+ year of experience",
+            "intro": "I'm an enthusiastic, responsible and hard working IT person. Being worked for different  projects helped me to adopt to the changes quickly and made me a mature team worker. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.",
             "contact": {
                  "email": "harshitbajpai85@gmail.com",
                 "phone": "+919696831239",
