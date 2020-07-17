@@ -125,7 +125,7 @@
                 ]
             },
         {
-                "desc": "<b>Software Engineer </b> at  <a target='_blank' href='https://www.mantistechnologies.com'> <strong> Mantis Technologies </strong> </a>",
+                "desc": "<b>Software Engineer </b> at  <a target='_blank' href='http://www.mantistechnologies.com'> <strong> Mantis Technologies </strong> </a>",
                 "date": "july 2019 - January 2020",
                 "details": [
                     "Design and developed an architecture for coupon system.So Idea behind this was to keep all coupon related data for all the operators(bus Companies) at one place. Therefore It's architecture is like that it could be used for multiple companies as well as it could have multiple types of coupons. So Now it's being used by the organisation"
