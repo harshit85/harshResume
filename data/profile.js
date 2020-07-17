@@ -30,7 +30,7 @@
             },
             {
                 "alma": "St francis Xavier's HSS, Ashok Nagar Kanpur, Uttar Pradesh",
-                "duration": "2006 - 2011", "std": "Class X",
+                "duration": "2010 - 2011", "std": "Class X",
                 "score": "76.16%"
             }
         ],
@@ -39,21 +39,35 @@
                 "graph": "false",
                 "category": "Programming Languages",
                 "topics": [
-                    "C","C++","Java","C#","Python"
+                    "C","C++","Java","Python","Java Script","Jqery"
                 ]
             },
             {
                 "graph": "false",
-                "category": "Scripting Languages",
+                "category": "IT Constructs",
                 "topics": [
-                    "HTML","CSS","Java Script","Jqery"
+                    "DS and Algorithms","OOPS","OS and DBMS","Compute Network"
                 ]
             },
-        {
+            {
+                "graph": "false",
+                "category": "Development tools",
+                "topics": [
+                    "Microsoft Visual Studio","Android Studio","Spyder"
+                ]
+            },
+            {
                 "graph": "false",
                 "category": "Databases",
                 "topics": [
-                    "MySQL","SQLite","Room"
+                    "MySQL","SQLite"
+                ]
+            },
+            {
+                "graph": "false",
+                "category": "Database Language",
+                "topics": [
+                    "SQL"
                 ]
             },
             {
@@ -65,16 +79,9 @@
             },
             {
                 "graph": "false",
-                "category": "Technologies/Frameworks",
+                "category": "Technologies",
                 "topics": [
-                    "Android",".net",
-                ]
-            },
-            {
-                "graph": "false",
-                "category": "Backend",
-                "topics": [
-                    "PHP"
+                    "Android"
                 ]
             }
         ],
@@ -113,20 +120,16 @@
                 "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
                 "date": "Faburary 01,2020 (presently)",
                 "details": [
-                   "<b>Redeveloping MICROID written in java</b> - It's a project for creating multiple android application with single codebase. It provides bus ticket booking android applications for every bus operator. It's a B2C mobile application which uses by the customer to do booking.",
-                    "using libraries like RxJava,Retrofit2,Dagger,AutoValue,Icepick and manymore popular libraries"
+                   "Developed a project microid2. I completed this project within 3 months of time without having any prior knowledge of android. Basically Idea behind this project to develop multiple android applications using single code Base. I designed a multilevel architecture for application where i used MVP design pattern to maintain code readability and reliability.",
+                    "using libraries like<b> RxJava, Retrofit2, Dagger, AutoValue and manymore popular libraries</b>"
                 ]
             },
         {
                 "desc": "<b>Software Engineer </b> at  <a target='_blank' href='https://www.mantistechnologies.com'> <strong> Mantis Technologies </strong> </a>",
                 "date": "july 2019 - January 2020",
                 "details": [
-                    "<b>Worked on company's core products (CRS ,busCRS, bookBusTicket ,IndoCanadianCRS)</b>",
-                    "Created many company level configurations like- Hide Booking, Hide Inquiery Reports",
-                    "Created coupon System which is being used by the different bus operators.",
-                    "Created voucher System for IndoCanadianCRS",
-                    "Created many Api's for our internal project and also for third party application and mobile applications.",
-                    "Done too many enhancements in many different functionalities"
+                    "Design and developed an architecture for coupon system.So Idea behind this was to keep all coupon related data for all the operators(bus Companies) at one place. Therefore It's architecture is like that it could be used for multiple companies as well as it could have multiple types of coupons. So Now it's being used by the organisation"
+                    ,"Worked on company's core products (CRS ,busCRS, bookBusTicket ,IndoCanadianCRS).Created many company level configurations like- Hide Booking, Hide Inquiery Reports."
                 ]
             }
         ],
