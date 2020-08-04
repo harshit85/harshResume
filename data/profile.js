@@ -105,12 +105,12 @@
                 },{
                     "title": "BusCrs",
             "duration":"April ,2020 - presently working",
-                    "link": "https://http://buscrs.com/",
+                    "link": "http://buscrs.com/",
                     "desc": "An website version of CRS Des application with less functionalities"
                 },{
                     "title": "bookBusTicket",
             "duration":"January, 2019 - till today",
-                    "link": "https://http://bookbustickets.com/",
+                    "link": "http://bookbustickets.com/",
                     "desc": "It's an bus ticket booking platform for the agents where agents can book ticket in different routes"
                 }
 
