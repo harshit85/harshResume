@@ -7,7 +7,7 @@ setTitle = (data) => {
     document.querySelector('#contactEmail').innerHTML = data.about.contact.email;
     document.querySelector('#contactEmail').setAttribute("href", `mailto:${data.about.contact.email}`);
     document.querySelector('#contactPhone').innerHTML = data.about.contact.phone;
-    // document.querySelector('#contactAddress').innerHTML = data.about.contact.address;
+    document.querySelector('#contactAddress').innerHTML = data.about.contact.address;
     document.querySelector('#contactWebsite').innerHTML = data.about.contact.portfolio;
     document.querySelector('#contactWebsite').setAttribute("href", `${data.about.contact.portfolio}`);
 }

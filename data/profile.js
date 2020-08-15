@@ -7,8 +7,8 @@
             "contact": {
                  "email": "harshitbajpai85@gmail.com",
                 "phone": "+919696831239",
-                "address": "562, T.R Muniswamappa Building,1st Main 5th cross ,BENGALURU ,KARNATAKA-560066",
-                "portfolio": "https://harshit85.github.io/harshResume/index.html"
+                "address": "5th cross road,5th main Rupena Agrahara,BENGALURU ,KARNATAKA-560068",
+                "portfolio": "https://github.com/harshit85"
             }
         },
         "links": [
@@ -39,7 +39,7 @@
                 "graph": "false",
                 "category": "Programming Languages",
                 "topics": [
-                    "C","C++","Java","Python","Java Script","Jqery"
+                    "C","C++","Java","Java Script","Jqery"
                 ]
             },
             {
@@ -74,7 +74,7 @@
                 "graph": "false",
                 "category": "libraries",
                 "topics": [
-                    "Dagger","Retrofit2","RxJava",
+                    "Dagger","Retrofit2","RxJava","Butter Knife","Icepick","Zxing",
                 ]
             },
             {
@@ -88,16 +88,10 @@
         "projects": [{
                     "title": "Microid",
             "duration": "February, 2020 currently",
-                    "link": "https://play.google.com/store/apps/details?id=com.mantis.gosuperbus&hl=en_IN",
-                    "desc": "Creating multiple android apps with single code base by changing product flavour"
-                }
-                ,{
-                    "title": "GitSearch",
-            "duration":"January, 2020",
-                    "link": "https://github.com/harshit85/gitSearchApp/",
-                    "desc": "It's an application to search directories related to different technologies, different user's directories"
-                }
-            ,{
+                    "link": "<a target='_blank' href='https://play.google.com/store/apps/details?id=com.mantis.shrinathtravelagency'> <strong>Shrinath Travel Agency</strong>, <a target='_blank' href='https://play.google.com/store/apps/details?id=com.mantis.gosuperbus'> <strong>GoSUperBus</strong>, <a target='_blank' href='https://play.google.com/store/apps/details?id=com.mantis.blackoasis'> <strong>Black Oasis</strong>",
+                    "desc": "Basically Idea behind this project to develop multiple android applications using single code Base. I designed a multilevel architecture for project where These technologies has been used to achieve this.<br><strong>Design Pattern:  MVP</strong></br><strong>For Ayn task and API:  RxJava, Retrofit2</strong><br><strong>For Dependecy injection : Dagger2</strong></br><strong>For generating immutable value classes:AutoValue</strong><br><strong>Other libraries: Butter Knife, Icepick, Zxing</strong></br>"
+                },
+                {
                     "title": "CRS (Computerized Reservations System)",
             "duration":"July 2019 - January 2020",
                     "link": "",
@@ -112,41 +106,33 @@
             "duration":"January, 2019 - till today",
                     "link": "http://bookbustickets.com/",
                     "desc": "It's an bus ticket booking platform for the agents where agents can book ticket in different routes"
+                },{
+                    "title": "GitSearch",
+            "duration":"January, 2020",
+                    "link": "https://github.com/harshit85/gitSearchApp/",
+                    "desc": "It's an application to search directories related to different technologies, different user's directories"
                 }
 
         ],
         "experiences": [
         {
-                "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
-                "date": "Faburary 01,2020 (presently)",
+                "desc": "<b> Android Developer / Software Engineer </b> at <a target='_blank' href='http://travelyaari.com/'> <strong>Travelyaari(Mantis Technologies Pvt Ltd)</strong> </a>",
+                "date": "july 08,2019 (presently)",
                 "details": [
-                   "Developed a project microid2. I completed this project within 3 months of time without having any prior knowledge of android. Basically Idea behind this project to develop multiple android applications using single code Base. I designed a multilevel architecture for application where i used MVP design pattern to maintain code readability and reliability.",
-                    "using libraries like<b> RxJava, Retrofit2, Dagger, AutoValue and manymore popular libraries</b>"
-                ]
-            },
-        {
-                "desc": "<b>Software Engineer </b> at  <a target='_blank' href='http://www.mantistechnologies.com'> <strong> Mantis Technologies </strong> </a>",
-                "date": "july 2019 - January 2020",
-                "details": [
-                    "Design and developed an architecture for coupon system.So Idea behind this was to keep all coupon related data for all the operators(bus Companies) at one place. Therefore It's architecture is like that it could be used for multiple companies as well as it could have multiple types of coupons. So Now it's being used by the organisation"
-                    ,"Worked on company's core products (CRS ,busCRS, bookBusTicket ,IndoCanadianCRS).Created many company level configurations like- Hide Booking, Hide Inquiery Reports."
+                   "Experience in understanding large and complex code bases",
+                   "Experience in developing, releasing, and maintaining native Android applications",
+                   "Experience working with all Android app comonents with an eye for efficient, good-looking UI layouts",
+                   "Experience in building responsive UI applications with offline storage, threading, and performance tuning",
+                   "Experience with application development with dependency injection",
+                   "Strong knowledge of Collections, Multithreading, IO, Networking, Generics",
+                   "Experience in writing and managing back-end APIs, including REST",
+                   "Experience of writing and maintaining Java for multiple versions of Android, and being able to design scalable mobile applications",
+                   "Excellent understanding of object-oriented programming, algorithms, data structures",
+                   "Adapt to changing situations and priorities and develop relationships with people of diverse backgrounds and experience"
                 ]
             }
         ],
         "events": [
-            {
-                "title": "certifications",
-                "body": [
-                    {
-                        "desc": "a three months course in<strong> Core Java </strong> from <b> S.K.Infotech,Haridwar </b>",
-                        "date": "September - November, 2017"
-                    },
-                    {
-                        "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
-                        "date": "December, 2017"
-                    }
-                ]
-            },
             {
                 "title": "other",
                 "body": [
@@ -155,14 +141,6 @@
                     {
                          "desc": "Secured <strong> Rank 5777</strong> in <b> Gate CS 2019</b> with <b> Score 496</b>",
                          "date": "March 2019"
-                    },
-                    {
-                         "desc":"Represent our district in state conference of National Children Science Congress",
-                        "date":"January 2011"
-                    },
-                    {
-                         "desc":"got an scholarship from <b>National Children Science Congress</b>",
-                        "date": "December 2010"
                     }
                 ]
             }
