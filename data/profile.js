@@ -87,9 +87,21 @@
         ],
         "projects": [{
                     "title": "Microid",
-            "duration": "February, 2020 currently",
+            "duration": "February 2020, currently working",
                     "link": "<a target='_blank' href='https://play.google.com/store/apps/details?id=com.mantis.shrinathtravelagency'> <strong>Shrinath Travel Agency</strong>, <a target='_blank' href='https://play.google.com/store/apps/details?id=com.mantis.gosuperbus'> <strong>GoSUperBus</strong>, <a target='_blank' href='https://play.google.com/store/apps/details?id=com.mantis.blackoasis'> <strong>Black Oasis</strong>",
-                    "desc": "Basically Idea behind this project to develop multiple android applications using single code Base. I designed a multilevel architecture for project where These technologies has been used to achieve this.<br><strong>Design Pattern:  MVP</strong></br><strong>For Ayn task and API:  RxJava, Retrofit2</strong><br><strong>For Dependecy injection : Dagger2</strong></br><strong>For generating immutable value classes:AutoValue</strong><br><strong>Other libraries: Butter Knife, Icepick, Zxing</strong></br>"
+                    "desc": "Basically Idea behind this project to develop multiple android applications using single code Base. I designed a multilevel architecture for project where These technologies has been used to achieve this.<br><strong>Design Pattern:  MVP</strong></br><strong>For Ayn task and API:  RxJava, Retrofit</strong><br><strong>For Dependecy injection : Dagger2</strong></br><strong>For generating immutable value classes:AutoValue</strong><br><strong>Other libraries: Butter Knife, Icepick, Zxing</strong></br>"
+                },
+                {
+                    "title": "Mantis CRS - Maven",
+            "duration":"July 2019 - currently working",
+                    "link": "https://play.google.com/store/apps/details?id=com.buscrs.app",
+                    "desc": "It's an B2B android application currently used by 3000+ different bus operator all over the country for bus ticket booking and Cargo booking. It's also used for analysising sales and booking. With this application operators can add agents in their companies for enhance booking.<br><strong>Design Pattern:  MVP</strong></br><strong>For Ayn task and API:  RxJava, Retrofit</strong><br><strong>For Dependecy injection : Dagger2</strong></br><strong>For generating immutable value classes:AutoValue</strong><br><strong>Other libraries: Butter Knife, Icepick, Zxing</strong></br>" 
+                },
+                {
+                    "title": "BookBusTicket",
+            "duration":"July 2019 - currently working",
+                    "link": "https://play.google.com/store/apps/details?id=com.bookbustickets",
+                    "desc": "It's an B2B android application used by the bus booking agents to book tikets, see their income and for many more things which could help them to increse their performance.<br><b>Technologies used: -Android, java</b><br><b>Libraries- RxJava,Dagger2,Retrofit</b>" 
                 },
                 {
                     "title": "CRS (Computerized Reservations System)",
